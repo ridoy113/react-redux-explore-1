@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "react-redux-explore-1",
+  "name": "Create react-redux-explore-1 Sample",
   "icons": [
     {
       "src": "favicon.ico",
